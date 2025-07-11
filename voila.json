@@ -1,9 +1,7 @@
 {
   "VoilaConfiguration": {
-    "show_tracebacks": true,
-    "theme": "light",
-    "template": "gridstack",
-    "strip_sources": false,
-    "enable_nbextensions": true
+    "resources": {"responsive": true},
+    "template": "material",
+    "strip_sources": true
   }
 }
